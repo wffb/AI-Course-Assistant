@@ -21,9 +21,9 @@ Immersive and Innovative Teaching Technologies will enable an AI agent with suff
 |:--------:|:--------:|:--------:|
 |Zhuyun Lu<br>*zhuyunl1@student.unimelb.edu.au*|Shanqing Huang<br>*shanqingh@student.unimelb.edu.au*| Haoran Wang<br>*hwang2974@student.unimelb.edu.au*|
 |**Developer**|**Developer**|**Developer**|
-|Ziqi Wang<br>*example@student.unimelb.edu.au*|Bo Huang<br>*example@student.unimelb.edu.au*|Lisong Xiao<br>*example@student.unimelb.edu.au*|
-|**Developer**|
-|Chong Shi<br>*example@student.unimelb.edu.au*|
+|Ziqi Wang<br>*example@student.unimelb.edu.au*|Bo Huang<br>*bohuang1@student.unimelb.edu.au*|Lisong Xiao<br>*example@student.unimelb.edu.au*|
+|**Developer**|||
+|Chong Shi<br>*example@student.unimelb.edu.au*|||
 
 ### Other stakeholders
 |Client|Project Mentor|
