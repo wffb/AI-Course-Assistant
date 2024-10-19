@@ -16,7 +16,9 @@ using UnityEditor;
 public class Backend: MonoBehaviour {
     private static  AudioSource audioSource;
 
-    private static string OPENAI_API_KEY = "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";
+    // enter your key here
+    private static string OPENAI_API_KEY = "my key";
+    
     private static OpenAIAPI _api = new OpenAIAPI(OPENAI_API_KEY);
 
 
