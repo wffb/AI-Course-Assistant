@@ -99,7 +99,7 @@
  
 //         // var openAiService = new OpenAIService(new OpenAiOptions()
 //         // {
-//         //     ApiKey = "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",  /*哦对了，我这里只是简单的设置了一下apikey,建议采用依赖注入，这样更安全*/
+//         //     ApiKey = "your key",  /*哦对了，我这里只是简单的设置了一下apikey,建议采用依赖注入，这样更安全*/
 //         // }, client);
 
 //         var serviceOption = new OpenAiOptions()
